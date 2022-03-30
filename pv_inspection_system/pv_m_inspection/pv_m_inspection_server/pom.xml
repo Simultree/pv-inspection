@@ -18,8 +18,8 @@
 
     <dependencies>
         <dependency>
-            <groupId></groupId>
-            <artifactId>mysql-connecter</artifactId>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
         </dependency>
     </dependencies>
 
