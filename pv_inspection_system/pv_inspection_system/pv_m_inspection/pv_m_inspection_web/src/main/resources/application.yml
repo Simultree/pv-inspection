@@ -1,7 +1,0 @@
-spring:
-  profiles: dev
-
-
-  datasource:
-    url: jdbc:mysql://127.0.0.1:1024?useunicode=true&characterEncoding=UTF8&zerDataTimeBehavior=convertToNull&serverTimezone=Asia/Shanghai&allowPublicKeyReterieval=TRUE
-
